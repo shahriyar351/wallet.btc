@@ -1,0 +1,2 @@
+# wallet.btc
+prievat key
